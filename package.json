@@ -1,0 +1,21 @@
+{
+  "name": "Horcrux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "parcel index.html --host localhost"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/config-default": "^2.12.0",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "pixi.js": "^8.0.3",
+    "typescript": "^5.4.2"
+  }
+}
